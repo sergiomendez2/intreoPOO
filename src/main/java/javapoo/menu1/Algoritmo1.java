@@ -18,6 +18,9 @@ public class Algoritmo1 {
         return a;
     }
 
+    /**
+     * Add the next number to the previous one
+     */
     public static int addNextNumber() {
         int nextNumber = suma() + 1;
         return nextNumber;
