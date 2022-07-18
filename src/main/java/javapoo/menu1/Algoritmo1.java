@@ -6,10 +6,10 @@ public class Algoritmo1 {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("the next number is:  "+addNextNumber());
-        askedThreeNumbers();
-        askHightAndWith();
-        showNumber();
+//        System.out.println("the next number is:  "+addNextNumber());
+//        askedThreeNumbers();
+//        askHightAndWith();
+//        showNumber();
     }
 
     public static int suma() {
