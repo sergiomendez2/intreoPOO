@@ -46,6 +46,10 @@ public class Algoritmo2 {
 
     }
 
+    /**
+     *
+     * @return true if the number is capicua, false if not
+     */
     public static void checkCapicua() {
         System.out.println("enter a number should be 5 digits");
         int number = scanner.nextInt();
