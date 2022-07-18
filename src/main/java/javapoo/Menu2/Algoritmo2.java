@@ -19,6 +19,9 @@ public class Algoritmo2 {
         }
     }
 
+    /**
+     * ask two numbers and evaluate if they can be divide each other
+     */
     public static void askTwoNumbers() {
         System.out.println("Enter first number");
         int number1 = scanner.nextInt();
