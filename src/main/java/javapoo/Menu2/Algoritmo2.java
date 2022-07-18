@@ -28,7 +28,9 @@ public class Algoritmo2 {
     }
 
 
-
+    /**
+     * Sum all digits of a number
+     */
     public static void sumNumberAllDigits() {
         System.out.println("enter a number should be from 1 to 4 digits at least");
         int number = scanner.nextInt();
